@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import os
 import json
-from streamlit-aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 
 # ========== INITIALIZATION ==========
 # Variáveis de estado para a Tabela 1 (Sugestão de Compras)
